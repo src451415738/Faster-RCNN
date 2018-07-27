@@ -1,0 +1,6 @@
+*.pkl
+.idea
+*.pyc
+*.png
+*.jpg
+*.txt
